@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bienestar360.Core", "Bienestar360.Core\Bienestar360.Core.csproj", "{D956635E-3CA5-48E8-9E76-2C64AD3671D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bienestar360.Repository", "Bienestar360.Repository\Bienestar360.Repository.csproj", "{3B14C59F-08DB-41F6-83DB-7AFDF7F160C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bienestar360.WebApi", "Bienestar360.WebApi\Bienestar360.WebApi.csproj", "{108FE66C-C3D1-460D-8F4B-B8B32B5BE30A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{D956635E-3CA5-48E8-9E76-2C64AD3671D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D956635E-3CA5-48E8-9E76-2C64AD3671D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D956635E-3CA5-48E8-9E76-2C64AD3671D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B14C59F-08DB-41F6-83DB-7AFDF7F160C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B14C59F-08DB-41F6-83DB-7AFDF7F160C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B14C59F-08DB-41F6-83DB-7AFDF7F160C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B14C59F-08DB-41F6-83DB-7AFDF7F160C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108FE66C-C3D1-460D-8F4B-B8B32B5BE30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108FE66C-C3D1-460D-8F4B-B8B32B5BE30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108FE66C-C3D1-460D-8F4B-B8B32B5BE30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108FE66C-C3D1-460D-8F4B-B8B32B5BE30A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

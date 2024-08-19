@@ -1,0 +1,6 @@
+@Bienestar360.WebApi_HostAddress = http://localhost:5190
+
+GET {{Bienestar360.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
