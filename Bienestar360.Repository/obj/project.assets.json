@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Proyectos\\Bienestar360\\Bienestar360.Repository\\Bienestar360.Repository.csproj",
+      "projectUniqueName": "d:\\raulr\\Documents\\Proyectos\\Bienestar360_2\\Bienestar360\\Bienestar360.Repository\\Bienestar360.Repository.csproj",
       "projectName": "Bienestar360.Repository",
-      "projectPath": "D:\\Documents\\Proyectos\\Bienestar360\\Bienestar360.Repository\\Bienestar360.Repository.csproj",
+      "projectPath": "d:\\raulr\\Documents\\Proyectos\\Bienestar360_2\\Bienestar360\\Bienestar360.Repository\\Bienestar360.Repository.csproj",
       "packagesPath": "C:\\Users\\raulr\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Proyectos\\Bienestar360\\Bienestar360.Repository\\obj\\",
+      "outputPath": "d:\\raulr\\Documents\\Proyectos\\Bienestar360_2\\Bienestar360\\Bienestar360.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raulr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

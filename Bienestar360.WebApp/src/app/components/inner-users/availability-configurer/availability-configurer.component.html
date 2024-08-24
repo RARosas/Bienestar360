@@ -1,0 +1,25 @@
+<div class="container">
+  <br>
+  <h2>Disponibilizador de turnos:</h2>
+  <p>La siguiente sección le permite configurar los días y horarios en los cuales estará disponible para atender a los pacientes y que los mismos reserven sus turnos.</p>
+  <p>Por defecto el disponibilizador completa full disponibilidad dentro de la franja horaria de la clínica y luego puede seleccionar aquellos horarios en los cuales no estará disponible.</p>
+  <div class="row">
+    <div class="col-md-6">
+      <h3>Seleccione el rango de sus turnos</h3>
+      <mat-form-field>
+        <mat-label>Duración de turnos</mat-label>
+        <mat-select [(ngModel)]="selectedRange">
+          @for (times of timeRanges; track times) {
+            <mat-option [value]="times.value">{{times.viewValue}}</mat-option>
+          }
+        </mat-select>
+      </mat-form-field>
+    </div>
+  </div>
+  <div class="row">
+    <h3>Seleccione la semana a configurar.</h3>
+    <div class="col-md-12">
+      <app-week-paginator></app-week-paginator>
+    </div>
+  </div>
+</div>

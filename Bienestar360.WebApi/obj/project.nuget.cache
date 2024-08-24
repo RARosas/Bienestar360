@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFuZgG6/Kw4=",
+  "dgSpecHash": "A0YHsbOcUMQ1UXBUIvt4pslg93s7cXibIbv1pyA5pYXUhOdZl2Ip+4qCPbxxshBB3TUsapchRtZIeT4GkpiAOQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Proyectos\\Bienestar360\\Bienestar360.WebApi\\Bienestar360.WebApi.csproj",
+  "projectFilePath": "D:\\raulr\\Documents\\Proyectos\\Bienestar360_2\\Bienestar360\\Bienestar360.WebApi\\Bienestar360.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raulr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\raulr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
